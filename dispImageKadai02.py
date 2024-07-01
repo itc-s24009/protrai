@@ -1,5 +1,5 @@
 #24009
-# 画像にモザイク
+# 画像をグレー、90度回転し水平方向に反転
 import tkinter as tk
 import tkinter.filedialog as fd
 import PIL.Image, PIL.ImageTk
