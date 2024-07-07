@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.pyw
+*.exe
+time.kadai.pyw
+~/protrai/tmp
